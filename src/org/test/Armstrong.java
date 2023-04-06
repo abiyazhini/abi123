@@ -21,6 +21,7 @@ public class Armstrong {
 		{
 			System.out.println(temp + " is not a palyndrome");
 			System.out.println("hiiiii");
+			
 		}
 	}
 
